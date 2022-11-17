@@ -1,8 +1,22 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun  3 14:21:52 2022
+Program name: Unsaturated soil shear strenght
 
-@author: Stella-Maria
+Created on Fri Jun  3 14:21:52 2022
+@authors: Estelle Stefanini, Stefania Viaggio
+Estelle was student at the National School of Geographic Sciences (ENSG - Fr), during her internship in the Geomatic Lab at the University of Genova (UniGe - It)
+Stefania was doing her PhD in the Geomatic Lab at the University of Genova (UniGe - It)
+They both worked under the supervision of Proff. Rossella Bovolenta and Bianca Federici, UniGe. 
+
+Copyright (C) 2022 Stefanini & Viaggio
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+If you need to contact us: stefania.viaggio et edu.unige.it, rossella.bovolenta et unige.it, bianca.federici et unige.it
+
 """
 
 from qgis.core import QgsProcessing
