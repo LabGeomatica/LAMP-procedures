@@ -1,6 +1,6 @@
-# LAMP_procedures
+# LAMP_
 
-Program name: LAMP procedures
+Program name: LAMP - Landslide Monitoring and Predicting
 
 Created on Fri Jun  3 14:21:52 2022
 
