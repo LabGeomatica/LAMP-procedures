@@ -1,4 +1,4 @@
-# LAMP_
+# LAMP - Landslide Monitoring and Predicting
 
 Program name: LAMP - Landslide Monitoring and Predicting
 
